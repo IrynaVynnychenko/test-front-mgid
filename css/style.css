@@ -186,7 +186,7 @@ input {
 }
 
 .carousel-section {
-  background-image: url(/img/img.png);
+  background-image: url(../img/img.png);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -260,14 +260,14 @@ input {
 }
 
 .carousel-control-prev-icon {
-  background-image: url(/img/back.svg);
+  background-image: url(../img/back.svg);
   width: 45px;
   height: 35px;
   color: #2c3e50;
 }
 
 .carousel-control-next-icon {
-  background-image: url(/img/next.svg);
+  background-image: url(../img/next.svg);
   width: 45px;
   height: 35px;
   color: #2c3e50;
@@ -310,7 +310,7 @@ input {
 }
 
 .register {
-  background-image: url(/img/shutterstock_130423430.png);
+  background-image: url(../img/shutterstock_130423430.png);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
